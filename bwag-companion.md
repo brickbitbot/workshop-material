@@ -51,7 +51,7 @@ Head over to [https://gobyexample.com/pointers](https://gobyexample.com/pointers
 
 1. Create a function `nameVal` that takes a `string` value argument and assigns "Todd" to it.
 2. Create a function `namePtr` that takes a `pointer` to a `string` argument and assigns "Nick" to it.
-3. In your main function, initialize a variable `s` to a string of your choice, then call on your `strVal` function with `s`, print out the result. Call on your `strPtr` function with `s` again, print out the results. What can we observe?
+3. In your main function, initialize a variable `s` to a string of your choice, then call on your `nameVal` function with `s`, print out the result. Call on your `namePtr` function with `s` again, print out the results. What can we observe?
 
 ### Structs
 
