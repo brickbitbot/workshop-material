@@ -1,0 +1,55 @@
+GoBridge Workshop - Day 2
+Building Web Apps with Go
+
+Sunday, May 22nd, 2016
+
+Johnny Boursiquot
+jboursiquot@gmail.com
+@jboursiquot
+
+* Day 2 Schedule
+
+- 9-9:30am: Check-in, breakfast
+- 9:30am-12:00pm: Class!
+- 12:00-1:00pm: Lunch
+- 1:00pm-4:30pm: Class! (with a break at 2:45-3pm)
+- 4:30-5:00pm: Closing presentation & wrapup
+- 5:00pm-late: Socializing at Meadhall (across the street)
+
+* Day 1 Recap
+
+We learned about:
+.link https://gobyexample.com/values Values
+.link https://gobyexample.com/variables Variables
+.link https://gobyexample.com/constants Constants
+.link https://gobyexample.com/for For
+.link https://gobyexample.com/if-else If/Else
+.link https://gobyexample.com/switch Switch
+
+* Day 1 Recap
+
+We learned about:
+
+.link https://gobyexample.com/arrays Arrays
+.link https://gobyexample.com/slices Slices
+.link https://gobyexample.com/maps Maps
+.link https://gobyexample.com/range Range
+.link https://gobyexample.com/functions Functions
+
+* Today
+
+Today we'll learn:
+
+.link https://gobyexample.com/pointers Pointers
+.link https://gobyexample.com/structs Structs
+.link https://gobyexample.com/methods Methods
+.link https://gobyexample.com/interfaces Interfaces
+
+And build a simple web application.
+
+* "Building Web Apps with Go" Online Book
+.link https://bit.ly/gobridge-bwag https://bit.ly/gobridge-bwag
+
+Companion to the book:
+
+.link http://bitly.com/gobridge-bwag-companion http://bitly.com/gobridge-bwag-companion
