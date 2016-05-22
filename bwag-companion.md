@@ -63,7 +63,7 @@ Head over to [https://gobyexample.com/structs](https://gobyexample.com/structs),
 
 3. Create a new Vehicle struct using one of the named fields. Print it to the screen. What are some of your observations?
 
-4. Print out the number of color and number of wheels from the struct you created in #3.
+4. Print out the color and number of wheels from the struct you created in #3.
 
 5. Change the speed of the struct you created in #3 and print the entire struct. What are your observations?
 
