@@ -1,110 +1,60 @@
 GoBridge Workshop - Closing Notes
 Thank you for coming!
 
-[date of workshop here]
+Sunday, May 22nd, 2016
 
-[organizer name here]
-[organizer job title - company]
-[email - optional]
-[organizer's website]
-@[organizer twitter handle here]
+Johnny Boursiquot
+jboursiquot@gmail.com
+@jboursiquot
 
-
-* You have completed the GoBridge [name of the course] workshop!
+* You have completed the GoBridge Boston workshop!
 Congratulations!
 
 .image images/gopher-brown.jpg _ 300
 .caption _Gopher_ by [[http://www.reneefrench.com][Renée French]]
 
-* Please thank our awesome sponsors!
-* Sagan Systems
+* Thanks to our awesome sponsors!
 
-  Sagan is a team of successful entrepreneurs crafting a
-  delightful customer support experience for today's
-  mobile, social, always connected consumer.
+.image images/pivotal.jpeg _ 300
+.image images/rbm.jpeg _ 200
+.image images/komand.png _ 200
 
-.link http://sagansystems.com http://sagansystems.com
+* Thanks to our generous supporters!
 
-.image images/sagan.jpg _ 200
+Todd McLeod for giving away free access to his "Learn How To Code: Google's Go (golang) Programming Language
+" course. Thank him on Twitter: @Todd_McLeod
 
-* Intel
-
-  Intel designs and builds the essential technologies
-  that serve as the foundation for the world's computing devices.
-
-.link http://intel.com http://intel.com
-
-.image images/intel.png _ 200
-
+Launch Academy for giving away a free month to their online intensive program. Thank them on Twitter: @LaunchAcademy
 
 * Thank you all volunteers!
 
-List names of all volunteers, and thank them.
-
-Organizers
-- ...
-- ...
+Organizer
+- Johnny Boursiquot
 
 Teacher(s)
-- ...
-- ...
+- Nick Gauthier
+- Johnny Boursiquot
 
 TAs
-- ..
-- ..
-
-
-* Use your credentials
-
-Go ahead and add your experience to your resume and/or linkedIn:
-
-*GoBridge*
-December 2015 - now
-Volunteer (Teacher, Event Organizer)
-
-
-* Celebrate!
-
-- Info about after-party, if any.
-
-- Include parking info and directions.
-
-
-* Recap
-
-- List top 3 things that were taught.
-
-- Would students like to share what they learned?
-
+- Biju Kalissery
+- Jen Andre
+- Sean Kelly
+- Todd Rafferty
 
 * Participate in your local Go community
 
-Information for each local Go communities.
-
-- Go meetup...
-
-- GoBridge local chapter...
-
-- Local Women Who Go chapter...
+- BostonGolang - http://www.meetup.com/Boston-Go-lang-User-Group
+- Women Who Go - https://www.meetup.com/women-who-go-boston
 
 
 * Participate in the GoBridge Community
-
 - Twitter: @golangbridge
-
 - Join the #gobridge channel on Gophers Slack (invite: https://gophersinvite.herokuapp.com/)
-
 - Participate in the Go Forum: https://forum.golangbridge.org/
-
 - Reach out on the mailing-list: https://groups.google.com/forum/#!forum/gobridge
-
 - Email support@golangbridge.org
 
-
 * Want to organize a workshop?
-
-.image images/gobridge.png _ 100
-
+.image images/gobridge.png _ 200
 The entry point for all workshop information, including how to kickoff or fund one:
-
 .link https://github.com/gobridge/workshops/ https://github.com/gobridge/workshops/
