@@ -67,7 +67,7 @@ Head over to [https://gobyexample.com/structs](https://gobyexample.com/structs),
 
 5. Change the speed of the struct you created in #3 and print the entire struct. What are your observations?
 
-6. Initialize a variable `p` and assign it a point to the previously created Vehicle struct. Can you update the color of the vehicle using the variable `p`? Why do you think that is?
+6. Initialize a variable `p` and assign it a pointer to the previously created Vehicle struct. Can you update the color of the vehicle using the variable `p`? Why do you think that is?
 
 ### Interfaces
 
